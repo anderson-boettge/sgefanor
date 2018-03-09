@@ -5,7 +5,7 @@ Os membros da equipe são:
 - Beatriz
 - Raimundo Nonato Rodrigues dos Santos Junior
 - Artur
-- Yuri
+- Yuri Slake
 - Zaqueu P. Rodrigues
 - Vinicius
 - Elder

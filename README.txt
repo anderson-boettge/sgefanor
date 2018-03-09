@@ -6,7 +6,7 @@ Os membros da equipe são:
 - Raimundo Nonato Rodrigues dos Santos Junior
 - Artur
 - Yuri
-- Zaqueu
+- Zaqueu P. Rodrigues
 - Vinicius
 - Elder
 - Derrick
